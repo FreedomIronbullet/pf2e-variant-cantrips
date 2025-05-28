@@ -1,0 +1,41 @@
+{
+    "id": "pf2e-variant-cantrips",
+    "title": "Pf2e Variant Cantrips",
+    "version": "1.0.0",
+    "manifest": "https://github.com/freedomironbullet/pf2e-variant-cantrips/releases/latest/download/module.json",
+    "download": "https://github.com/freedomironbullet/pf2e-variant-cantrips/releases/download/1.0.0/module.zip",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "pf2e",
+                "type": "system",
+                "compatibility": {}
+            }
+        ]
+    },
+    "description": "A set of variant cantrips made by AJ Neuro (MidSolo) to add some variety, utility, and strength to cantrips to bring them in line with the power level of Electric Arc.\nI simply updated it to fit the remaster.\nI also added the amped psychic cantrip variants as focus spells.\n\n\nChanges to cantrips are As followed\n\nAcid Splash &amp; Caustic Blast renamed into “Dissolve”\nMake a spell attack On a success, you deal acid damage equal to your spellcasting ability modifier, plus 1 splash acid damage, plus 1 persistent acid damage. On a critical success, double the damage (but not the splash damage). As usual, splash damage is dealt, even on a failure, to the target and everyone within 5ft of the target.\nHeightened (+1) The splash damage increases by 1, and the persistent damage increases by 1.\n\nDaze changed into “Stagger”\nYou deal mental damage equal to 1d4 plus your spellcasting ability modifier with a basic Will save. If the target critically fails the save, it is also Stunned 1.\nHeightened (+1) The damage increases by 1d4.\n\nDivine Lanced changed into “Punish”\nYou deal mental damage equal to 1d4 plus your spellcasting ability modifier with a basic Will save. If the target critically fails the save, it is also Stunned 1.\nHeightened (+1) The aligned damage increases by 1d4, and the force damage increases by 1.\n\nFrostbite and Ray of Frost Changed into Freeze\nAn orb of biting cold coalesces around your target, freezing its body. The target takes 1d6 plus your spellcasting ability modifier cold damage with a basic Fortitude save.\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and takes a -5 foot status penalty to its speeds until the start of your next turn. \nCritical Failure The creature takes double damage, gains weakness 1 to bludgeoning, and takes a -10 foot status penalty to its speeds until the start of your next turn.\nHeightened (+1) The damage increases by 1d6 and the weakness on a critical failure increases by 1.\n\nGale Blast changed into “Batter”\nWind flows from your outstretched hands and whirls around you in a 5-foot emanation. Each creature in the area takes bludgeoning damage equal to 1d4 plus your spellcasting ability modifier, with a Fortitude save.\nCritical Success The creature is unaffected.\nSuccess The creature takes half damage.\nFailure The creature takes full damage and is pushed 5 feet away from you.\nCritical Failure The creature takes double damage and is pushed 10 feet away from you.\nHeightened (+1) The damage increases by 1d4.\n\nGouging Claw changed into “Gouge”\nMake a melee spell attack roll against your target’s AC. On a success, you deal your choice of slashing or piercing damage equal to 1d8 plus your spellcasting ability modifier plus 2 persistent bleed damage. On a critical success, you deal double damage and double bleed damage.\nHeightened (+1) The damage increases by 1d8 and the persistent bleed damage increases by 1.\n\nHaunting Hymn changed into “Chant”\nYou echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d4 plus your spellcasting ability modifier sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also Deafened for 1 minute.\nHeightened (+1) The damage increases by 1d4.\n\nIgnition changed into “Blaze”\nYou snap your fingers and point at a target, which begins to smolder. Make a spell attack roll against the target's AC, dealing 1d6 fire damage on a hit. If the target is within your melee reach, you can choose to make a melee spell attack with the flame instead of a ranged spell attack, which increases all the spell's damage dice to d8s.\nCritical Success The target takes double damage and 1d4 persistent fire damage.\nSuccess The target takes full damage.\nHeightened (+1) The initial damage increases by 1d6 and the persistent fire damage on a critical hit increases by 1d4.\n\nPuff of Poison changed into “Intoxicate”\nYou exhale a shimmering cloud of toxic breath at an enemy's face. The target takes 1d4 plus your spellcasting modifier poison damage and 1 persistent poison, depending on its Fortitude save.\nCritical Success The creature is unaffected.\nSuccess The target takes half initial damage and persistent damage.\nFailure The target takes full initial and persistent damage.\nCritical Failure The target takes double initial and persistent damage.\nHeightened (+1) The initial poison damage increases by 1d4, and the persistent poison damage increases by 1.\n\nSpout changed into “Gush”\nWater blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take 1d6 plus your spellcasting ability modifier, with a basic Reflex saving throw. A creature that critically fails its save is disoriented by the explosion of water, becoming Off-Guard until the end of your next turn.\nYou can change this spell's area to a 5-foot burst, provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.\nHeightened (+1) The damage increases by 1d6.\n\nTelekinetic Projectile changed into “Thrust”\nYou create a quick burst of shaped kinetic energy. Choose bludgeoning, piercing, or slashing damage. Make a spell attack roll against the target. If you hit, you deal damage of the chosen type equal to 1d8 plus your spellcasting ability modifier.\nCritical Success You deal double damage.\nSuccess You deal full damage.\nHeightened (+1) The damage increases by 1d8.\n\nVitality Lash changed into “Cleanse”\nYou demolish the target's corrupted essence with energy from Creation's Forge. You deal vitality damage equal to 1d8 + your spellcasting ability modifer with a basic Fortitude save. If the creature critically fails the save, it is also Enfeebled 1 until the start of your next turn.\nHeightened (+1) The damage increases by 1d8.\n\nVoid Warp changed into “Void Rot”\nLiving Creature The spell deals void damage equal to 1d6 + your spellcasting ability modifier with a basic Fortitude save. On a critical failure the target is also Enfeebled 1 for 1 round .\nUndead Creature The target is Off-Guard for 1 round on a failed Fortitude save. On a critical failure, the target is also Fleeing for 1 round unless it succeeds at a Will save.\nHeightened (+1) The void damage to living creatures increases by 1d6.",
+    "authors": [
+        {
+            "name": "Freedom",
+            "discord": "freedomironbullet",
+            "flags": {}
+        }
+    ],
+    "packs": [
+        {
+            "name": "variant-spells",
+            "label": "Variant Cantrips",
+            "path": "packs/variant-spells",
+            "type": "Item",
+            "system": "pf2e",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        }
+    ]
+}
