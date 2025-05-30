@@ -1,9 +1,9 @@
 {
     "id": "pf2e-variant-cantrips",
     "title": "Pf2e Variant Cantrips",
-    "version": "1.0.0",
-    "manifest": "https://github.com/freedomironbullet/pf2e-variant-cantrips/releases/latest/download/module.json",
-    "download": "https://github.com/freedomironbullet/pf2e-variant-cantrips/releases/download/1.0.0/module.zip",
+    "version": "1.0.1",
+    "manifest": "https://github.com/FreedomIronbullet/pf2e-variant-cantrips/releases/latest/download/module.json",
+    "download": "https://github.com/FreedomIronbullet/pf2e-variant-cantrips/releases/download/1.0.1/module.zip",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
